@@ -13,7 +13,10 @@ public class ForEachPractice1 {
 
             System.out.println( number  );
 
+
             System.out.println( number + 10);
+
+          //  break;
 
         }
 
