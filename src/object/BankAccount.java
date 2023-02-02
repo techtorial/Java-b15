@@ -2,9 +2,13 @@ package object;
 
 public class BankAccount {
 
-    String accountHolderName, bankName, userName, password;
-    boolean isLoggedIn;
-    double balance;
+   static  {
+       System.out.println( "******");
+   }
+
+   public String accountHolderName, bankName, userName, password;
+  public  boolean isLoggedIn;
+   public double balance;
 
     // create a method that will initialize instance fields
     public void signUp(String accountHolderName1, String userName1, String password1, double balance1) {

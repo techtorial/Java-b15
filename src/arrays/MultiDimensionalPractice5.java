@@ -2,6 +2,8 @@ package arrays;
 
 public class MultiDimensionalPractice5 {
 
+
+
     public static void main(String[] args) {
 
         String[][] brands = {{"Apple", "Dell", "google", "Acer", "Samsung"}, {"LG", "Sony", "Toshiba"}, {"Google", "Bose", "JBL"}};
