@@ -26,8 +26,8 @@ public class ListOfConcepts {
 18-Encapsulation --> hiding,protecting/limit ==>PRIVATE -->GETTER AND SETTER
 19-Inheritance   -->parent/child-->EXTENDS -->reduce the amount code --> FULLY DONE
 20-Abstract-Interface --> EXTENDS -->IMPLEMENTS --> Class can have more parents from interface -->FULLY DONE
-21-Polymorphism -overloading - overriding
-22-Exception
+21-Polymorphism -overloading - overriding -->It is all about Dynamic and Static polymorphism -->FULLY DONE
+22-Exception  -->throw and throws -->FULLY DONE
    */
 
 }
